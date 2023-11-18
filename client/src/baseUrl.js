@@ -1,3 +1,3 @@
-const baseUrl = "https://mern-azure-application.azurewebsites.net";
+const baseUrl = "https://mern-azure-tutorial-master.azurewebsites.net";
 
 export default baseUrl;
